@@ -64,8 +64,3 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato com [viniciusds1020@gmail.com](mailto:viniciusds1020@gmail.com).
-
----
-
-[Vinicius de Sousa](https://github.com/viniciusds2020)
-```
