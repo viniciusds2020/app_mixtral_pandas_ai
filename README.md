@@ -69,5 +69,3 @@ Para dúvidas ou sugestões, entre em contato com [viniciusds1020@gmail.com](mai
 
 [Vinicius de Sousa](https://github.com/viniciusds2020)
 ```
-
-Certifique-se de ajustar os detalhes como URLs, seu nome de usuário do GitHub e e-mail conforme necessário. Adicione também a estrutura dos arquivos e diretórios reais do seu projeto para garantir que o README forneça informações precisas.
