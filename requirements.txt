@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain-groq
+streamlit 
+python-decouple
+pandasai
+tabulate
